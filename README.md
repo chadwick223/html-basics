@@ -1,2 +1,2 @@
 # html-basics
-creating a birthday invite for my birthday using html basic tags
+creating my basic portfolio using my understanding of html
